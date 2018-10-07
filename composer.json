@@ -1,0 +1,20 @@
+{
+    "name": "thuc/thucvendor",
+    "type": "no",
+    "license": "no",
+    "authors": [
+        {
+            "name": "Nguyen The Thuc",
+            "email": "thucfami@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
